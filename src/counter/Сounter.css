@@ -1,0 +1,30 @@
+.counter {
+    margin-top: 230px;
+    text-align: center;
+}
+
+.counter h1 {
+    font-size: 60px;
+}
+
+.counter h2 {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.counter button {
+    font-size: 16px;
+    width: 170px;
+    height: 50px;
+    margin: 5px;
+    color: white;
+    background: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.counter button:hover {
+    background: blueviolet;
+    border: 1px solid black;
+    transition: 0.4s;
+}

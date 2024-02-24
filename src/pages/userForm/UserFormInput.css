@@ -1,0 +1,15 @@
+body {
+    padding-top: 200px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.my-app {
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: #f9f9f9;
+}
